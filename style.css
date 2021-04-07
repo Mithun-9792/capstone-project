@@ -1,0 +1,14 @@
+body{
+    border: 50px solid rgb(8, 196, 186);
+    border-width: 0px 50px 50px 50px;
+    background-color: rgb(6, 6, 82);
+}
+h2{
+    color: honeydew;
+    text-align: center;
+}
+h3{
+    color: honeydew;
+    text-align: center;
+    font-style: oblique;
+}
